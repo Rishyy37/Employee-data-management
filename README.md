@@ -6,7 +6,7 @@ This is a React-based User Management Application that allows users to log in, v
 
 1. **Clone the Repository**  
    ```sh
-   git clone https://github.com/your-repo/user-management-app.git
+   git clone https://github.com/Rishyy37/Employee-data-management.git
    cd user-management-app
    ```
 
